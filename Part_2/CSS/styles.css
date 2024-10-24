@@ -1,0 +1,45 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #007bff; /* Primary Blue */
+    padding: 15px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: #ffdd57; /* Yellow on hover */
+}
+
+.nav-link {
+    color: white;
+    font-weight: 500;
+    padding: 10px 15px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Light overlay */
+    color: #ffdd57;
+    border-radius: 5px;
+}
+
+/* Navbar Toggler Icon */
+.navbar-toggler {
+    border-color: white;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Mobile Menu Styling */
+.navbar-collapse {
+    background-color: #007bff; /* Blue background on mobile */
+}
+
+.navbar-nav 
