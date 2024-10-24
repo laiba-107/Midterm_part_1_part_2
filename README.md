@@ -33,7 +33,7 @@ root/
 ```
 
 ### Screenshots
-file:///C:/Users/laiba.ali/OneDrive%20-%20University%20of%20Central%20Asia/Desktop/Midterm_part_1_part_2/Part_2/HTML/index.html
+C:\LaibaPython\Screenshot 2024-10-24 235113.png
 
 ## Technologies Used
 
